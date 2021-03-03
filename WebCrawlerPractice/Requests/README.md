@@ -1,6 +1,7 @@
 # Web-Crawler
-First WebCrawler practice using python. 
-The main purpose here is to get familiar with request package and perform some basic crawling  
+First WebCrawler practice using python.   
+The main purpose here is to get familiar with request package and perform some basic crawling
+There are 3 tasks in this folder
   
   
 **Task 1** is simply to acquire all the data on google page  
